@@ -11,11 +11,12 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-webProgramlamaProje2025-7e3371d4-be4e-42c0-94ff-556ce0b14e61")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("webProgramlamaProje2025")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d100136c6bef5e699f7f4a4105574852e634516")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89548ac954134eeac436e90027880e48a47ce8b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("webProgramlamaProje2025")]
 [assembly: System.Reflection.AssemblyTitleAttribute("webProgramlamaProje2025")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
